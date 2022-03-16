@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "A Storybook addon to switch between themes - built specifically for Vue3",
   "keywords": [
-    "storybook addon vue3 theme toggle css stylesheets", "storybook-addons"
+    "storybook addon vue3 theme toggle css stylesheets",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -85,5 +86,6 @@
       "vue3"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
-  }
+  },
+  "dependencies": {}
 }
